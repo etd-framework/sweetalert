@@ -1,0 +1,15 @@
+{
+  "name": "etdsolutions/sweetalert",
+  "description": "Shim repository for SweetAlert",
+  "keywords": [
+    "alert", "modal"
+  ],
+  "authors": [
+    {
+      "name": "Tristan Edwards",
+      "email": "tristan.edwards@me.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "http://tristanedwards.me/sweetalert"
+}
